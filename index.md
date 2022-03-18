@@ -39,6 +39,7 @@ Simply run it without any additional setup and the record will get created
 ### Observations
 
 There are other options out there that can help the developers such as Power automate connectors. However the Dynamics connectors are premium.
+So this will be subject to additional licensing. Also it can take some time to set it up and the its execution feels a bit like breaking the testing flow.  
 
 There is also the option to *Edit and resend the request* in the Mozilla Firefox. Thanks to this feature i was able to work out that the "Origin" header needs to be added to the Postman call.
 

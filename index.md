@@ -30,5 +30,19 @@ Now that all setup is in place let's do an simple OData call. One thing to note 
 
 Here is a simple example which creates a vendor group.
 
+![Postman OData call](https://user-images.githubusercontent.com/25058196/158974766-8aea6643-162d-4ddd-bc93-79d5102f762c.PNG)
 
+Simply run it without any additional setup and the record will get created
+
+![Postmand Odata result](https://user-images.githubusercontent.com/25058196/158975540-650f827c-e172-4361-984d-8c697a455a8c.PNG)
+
+### Observations
+
+There are other options out there that can help the developers such as Power automate connectors. However the Dynamics connectors are premium.
+
+There is also the option to *Edit and resend the request* in the Mozilla Firefox. Thanks to this feature i was able to work out that the "Origin" header needs to be added to the Postman call.
+
+I hope this will make the work easy for some of the integration experts out there. 
+
+Happy testing !!!
 

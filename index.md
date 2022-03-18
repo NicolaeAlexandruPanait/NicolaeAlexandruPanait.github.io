@@ -4,4 +4,4 @@ Over the years i have collected some intersting tips and tricks for working with
 
 Here are some nice tips that can be used in any D365 implementation
 
-> [Tokenless Dynamics 365 service and OData testing in Postman](https://NicolaeAlexandruPanait.github.io)
+> [Tokenless Dynamics 365 service and OData testing in Postman](https://NicolaeAlexandruPanait.github.io/Tokenless-Dynamics-365-service-and-OData-testing-in-Postman/)

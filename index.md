@@ -34,7 +34,7 @@ Here is a simple example which creates a vendor group.
 
 Simply run it without any additional setup and the record will get created
 
-![Postmand Odata result](https://user-images.githubusercontent.com/25058196/158975540-650f827c-e172-4361-984d-8c697a455a8c.PNG)
+![Postmand Odata result](https://user-images.githubusercontent.com/25058196/158977951-0fa2805b-d421-4087-8478-1e68ec9c5fe7.PNG)
 
 ### Observations
 
